@@ -1,0 +1,25 @@
+.color{
+  background-color: rgb(137, 164, 90);
+  height: 500px;
+  width: 78%;margin-left:1mm;margin-right: 1mm;
+  border: solid;
+  float: right;
+}
+.articulo{
+  background-color: coral;
+  height: 300px;
+  width: 30.5%;margin-left:4mm;margin-right: 4mm;margin-top: 1mm;
+  float: left;
+}
+.articulo2{
+  background-color: coral;
+  height: 300px;
+  width: 30.5%;margin-left:4mm;margin-right: 4mm;margin-top: 1mm;
+  float: right;
+}
+.articulo3{
+  background-color: coral;
+  height: 300px;
+  width: 30.5%;margin-left:4mm;margin-right: 4mm;margin-top: 1mm;
+  float: right;
+}
